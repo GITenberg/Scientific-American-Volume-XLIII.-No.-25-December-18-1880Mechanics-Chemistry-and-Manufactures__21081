@@ -1,0 +1,31 @@
+_repo: Scientific-American-Volume-XLIII.-No.-25-December-18-1880Mechanics-Chemistry-and-Manufactures__21081
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: Scientific American
+gutenberg_issued: '2007-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'T'
+- !lcsh 'Technology -- Periodicals'
+- !lcsh 'Science -- Periodicals'
+title: 'Scientific  American, Volume XLIII., No. 25, December 18, 1880
+
+  A Weekly Journal of Practical Information, Art, Science,
+
+  Mechanics, Chemistry, and Manufactures.'
+url: http://www.gutenberg.org/ebooks/21081
